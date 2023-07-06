@@ -29,7 +29,7 @@ crypto_market_data.csv - market data of different cryptocurrencies during differ
 **Result**
 
 1. Elbow curve for the original data.
-
+https://github.com/romi-oinam/CryptoClustering/issues/1
 
 2. Elbow curve for the PCA data.
 
