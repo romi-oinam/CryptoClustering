@@ -29,15 +29,18 @@ crypto_market_data.csv - market data of different cryptocurrencies during differ
 **Result**
 
 1. Elbow curve for the original data.
-https://github.com/romi-oinam/CryptoClustering/issues/1
+![](Images/originalelbowplot.jpg)
 
 2. Elbow curve for the PCA data.
+   ![](Images/pcaelbowplot.jpg)
 
 
-3. Scatter plot of cryptocurrency clusters based on the original data.
+4. Scatter plot of cryptocurrency clusters based on the original data.
+   ![](Images/marketscaledscatterplot.jpg)
 
 
-4. Scatter plot of cryptocurrency clusters based on the PCA data.
+6. Scatter plot of cryptocurrency clusters based on the PCA data.
+   ![](Images/marketpcascatter%20plot.jpg)
 
 
 
